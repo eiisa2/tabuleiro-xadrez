@@ -1,0 +1,42 @@
+body{
+    background-image: url(BG.jpg);
+    margin:20px;   
+}
+
+body img{
+    width: 100px;
+}
+
+table td img{
+    width: 90px;
+    right: 90px;
+}
+
+table{
+    margin:auto; 
+    border-collapse: collapse;
+
+}
+
+header{
+    text-align: center;
+    margin: 30px;
+}
+
+
+.placa_preta{
+    background-image: url(placa_preta.jpg);
+    width: 100px;
+    height: 100px;
+}
+
+.placa_branca{
+    background-image: url(placa_branca.jpg);
+    width: 80px;
+    height: 80px;
+}
+
+.peao_preto{
+    width: 100px;
+    height: 100px;
+}
